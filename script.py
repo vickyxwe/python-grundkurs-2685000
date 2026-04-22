@@ -38,3 +38,10 @@ print("2 hoch 3:", potenz)
 # Aufgabe:
 # Führen Sie eine Addition, Subtraktion, Multiplikation und Division
 # mit zwei von Ihnen gewählten Variablen durch und geben Sie die Ergebnisse aus.
+# Legen Sie eine Integer-Variable meine_variable mit dem Wert 5 an,
+# casten Sie diese in eine Float-Variable und geben Sie das Ergebnis aus.
+
+meine_variable = 5
+
+meine_variable_float = float(meine_variable)
+print(meine_variable_float)
